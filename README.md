@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azaou123
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript(React) and php (Laravel)
 - 💞️ I’m looking to collaborate on this domaine
 - 📫 How to reach me new courses and tasks
 
